@@ -1,2 +1,2 @@
-dev1 code
+ code
 dev2 code
